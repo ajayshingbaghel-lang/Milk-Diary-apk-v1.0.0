@@ -1,0 +1,6 @@
+{
+  "name": "Milk Diary",
+  "description": "User-friendly milk management app for daily milk entry, monthly rate management, advance and goods tracking, multi-account calculation, and WhatsApp billing. Founded by Ajay Pal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
